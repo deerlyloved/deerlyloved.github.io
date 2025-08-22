@@ -1,2 +1,2 @@
-# deerlyloved.github.io
+# deerlyloved.gay
 personal website
