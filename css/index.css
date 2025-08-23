@@ -23,12 +23,14 @@ nav {
 
 nav h1 {
     padding-left: 10px;
+    padding-top: 3px;
     width: 78px;
     font-family: papyrus;
     color: black;
     background-color: #FDFBD4;
     border: 3px solid white;
     border-radius: 7px;
+    margin-left: 15px;
 }
 
 nav ul {
